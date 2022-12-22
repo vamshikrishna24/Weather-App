@@ -45,7 +45,6 @@ h1 {
   align-items: center;
   justify-content: center;
   flex-direction: row;
-  max-width: 40rem;
 }
 
 button {
@@ -69,6 +68,8 @@ button:hover {
   border-radius: 1.8rem;
   font-family: inherit;
   font-size: 1.8rem;
+  width: 100%;
+  max-width: 25rem;
 }
 
 .description {
