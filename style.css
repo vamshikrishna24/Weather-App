@@ -67,7 +67,6 @@ button:hover {
   border-radius: 1.8rem;
   font-family: inherit;
   font-size: 1.8rem;
-  width: calc(100%-10rem);
 }
 
 .description {
