@@ -86,3 +86,10 @@ button:hover {
   visibility: hidden;
   height: 0;
 }
+
+.top {
+  position: absolute;
+  margin: 0 auto;
+  top: 10rem;
+  color: rgba(168, 192, 197, 0.756);
+}
